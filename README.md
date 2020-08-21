@@ -11,16 +11,16 @@ Kurs: Systemstöd och integration med 3-partssystem, 30 yhp
 
 Det krävs en installation av node.js (https://nodejs.org/en/)
 
-Installera/skriv följande i terminalfönstret:
-cd myrestapi
-npm init
-npm i express 
-npm i -g nodemon
-(ev. sudo) npm i -g nodemon
-npm i --S express body-parser request
-npm i ejs
+Installera/skriv följande i terminalfönstret: <br>
+* cd myrestapi
+* npm init
+* npm i express 
+* npm i -g nodemon
+* (ev. sudo) npm i -g nodemon
+* npm i --S express body-parser request
+* npm i ejs
 
-För att köra appen skriv:
+För att köra appen skriv:<br>
 nodemon server.js i terminalfönstret.
 
 
